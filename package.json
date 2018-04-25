@@ -1,0 +1,31 @@
+{
+  "name": "typescript-pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbtsw/typescript-pnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbtsw/typescript-pnpm/issues"
+  },
+  "homepage": "https://github.com/xbtsw/typescript-pnpm#readme",
+  "dependencies": {
+    "@types/react": "16.3.12",
+    "@types/react-dom": "16.0.5",
+    "office-ui-fabric-react": "5.88.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "ts-loader": "4.2.0",
+    "typescript": "2.8.3",
+    "webpack": "4.6.0",
+    "webpack-cli": "2.0.15"
+  }
+}
