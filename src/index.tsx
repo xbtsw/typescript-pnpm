@@ -1,3 +1,3 @@
-import { mergeStyles } from 'office-ui-fabric-react/lib/Styling';
+import { test } from 'pkg1';
 
-mergeStyles({});
+test();

@@ -18,11 +18,7 @@
   },
   "homepage": "https://github.com/xbtsw/typescript-pnpm#readme",
   "dependencies": {
-    "@types/react": "16.3.12",
-    "@types/react-dom": "16.0.5",
-    "office-ui-fabric-react": "5.88.0",
-    "react": "16.3.2",
-    "react-dom": "16.3.2",
+    "pkg1": "file:pkg1",
     "ts-loader": "4.2.0",
     "typescript": "2.8.3",
     "webpack": "4.6.0",
